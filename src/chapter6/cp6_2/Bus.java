@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6.cp6_2;
 
 public class Bus {
     int busNumber;             // 버스 번호
@@ -19,6 +19,4 @@ public class Bus {
     public void showInfo() {      // 버스 정보를 출력하는 함수
         System.out.println("버스 " + busNumber + "번의 승객은 " + passengerCount +"명이고, 수입은 " + money + "입니다.");
     }
-
-
 }

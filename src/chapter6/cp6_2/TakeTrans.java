@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6.cp6_2;
 
 public class TakeTrans {
 

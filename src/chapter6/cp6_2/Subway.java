@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6.cp6_2;
 
 public class Subway {
     public String lineNumber;           // 지하철 노선 번호
@@ -18,5 +18,4 @@ public class Subway {
     {
         System.out.println(lineNumber + "의 승객은 " + passengerCount +"명이고, 수입은 " + money + "입니다.");
     }
-
 }
